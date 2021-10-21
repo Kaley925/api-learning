@@ -1,0 +1,14 @@
+.butt{
+    text-align: center;
+    
+}
+.decor{
+    text-decoration: none;
+    color:black;
+}
+.decor:hover{
+    color:rgb(243, 93, 218);
+}
+body{
+    background-color: darksalmon;
+}
